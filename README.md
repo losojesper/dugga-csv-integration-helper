@@ -2,8 +2,11 @@
 
 # Getting started
 Install python on the machine that will run the script. The script is only tested on python3.
+
 Run `pip install`
+
 Run the script
+
 `python dugga_integration_helper.py <token> <path/to/file.csv>`
 
 You have to get the token from Dugga support, support@dugga.com
