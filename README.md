@@ -1,5 +1,7 @@
 # dugga-csv-integration-helper
 
+This is a simple command line tool to help Dugga's customers to integrate through our CSV API.
+
 # Getting started
 Install python on the machine that will run the script. The script is only tested on python3.
 
