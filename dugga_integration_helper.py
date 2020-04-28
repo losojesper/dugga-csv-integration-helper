@@ -13,7 +13,6 @@ def encoding_ok(file_path):
     encoding_ok = 'no'
     with open(file_path, 'rb') as f:
         all_lines = list(f.readlines())
-        print(len(all_lines))
         sample_lines = list()
         i = 0
         while i < 5 and len(all_lines) > 1:
