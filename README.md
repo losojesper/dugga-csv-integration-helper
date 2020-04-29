@@ -5,6 +5,10 @@ This is a simple command line tool to help Dugga's customers to integrate throug
 # Getting started
 Install python on the machine that will run the script. The script is only tested on python3.
 
+Download the repository, either through GitHub's website or through
+
+`git clone git@github.com:losojesper/dugga-csv-integration-helper.git`
+
 Run `pip install`
 
 Run the script
